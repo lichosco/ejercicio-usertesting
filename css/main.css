@@ -1,3 +1,4 @@
+
 .bg-header
 {
 	background-image: url("../image/large.jpg");
@@ -252,3 +253,93 @@ a:hover
 
 
 }
+
+/*CSS NICOL ABARCA*/
+
+.why img {
+	max-width: 100%;
+}
+
+.banner {
+	background-image: url(../image/banner.jpg);
+}
+
+.title-por-que {
+	font-size: 35px;
+	color:#00FFFF;
+}
+
+.logo {
+	margin-top: 2%;
+}
+
+.why li {
+	line-height: 35px;
+}
+
+.text-center {
+	text-align: center;
+}
+/*prueba*/
+
+.text-center {
+	text-align: center;
+}
+
+.prueba {
+	padding: 2% 0;
+}
+
+.boton-prueba {
+	background: transparent;
+	margin-top: 4%;
+	border: 2px solid white;
+}
+
+.prueba a {
+	font-size: 22px;
+}
+
+.bgPrueba {
+	background-color: #74a3db;
+}
+
+/*footer*/
+
+.fotter {
+	padding: 2% 0;
+}
+
+.footer p {
+	font-size: 10px;
+}
+footer span {
+	font-size: 27px;
+}
+.icon-facebook {
+    margin-right: 2%;
+	margin-left: 27%;
+	color: #007AF3;
+
+}
+.icon-twitter{
+	color: #007AF3;
+}
+
+.fin{
+	margin-top: 1%;
+	color: white;
+}
+
+.tx-wh {
+	color: white;
+}
+
+.tx-title1 {
+	color: #007AF3;
+}
+
+.bgFooter {
+	background-color: #2a3541;
+}
+/*FIN*/
